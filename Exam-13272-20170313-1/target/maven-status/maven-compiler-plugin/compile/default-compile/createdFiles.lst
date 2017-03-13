@@ -1,0 +1,6 @@
+com\hand\chenhao\ActionServlet.class
+com\hand\entity\Film.class
+com\hand\entity\Language.class
+com\hand\util\DBUtil.class
+com\hand\Customer\CustomerDAO.class
+com\hand\entity\Customer.class
